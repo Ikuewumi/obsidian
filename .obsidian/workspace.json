@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "715c25f4faaa10ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "81ed14ecded82dbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ebb0ccf6931e1c0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Medcross Requirements.md"
+              }
+            }
+          },
+          {
+            "id": "59d6614803b457f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MedCross.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cde24295312a2112",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c04d387837fbd3db",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab16bc303daee415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b57e7a0d585ee4a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "557cea6c30386ae5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5f4dc9daf1357ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "437bdfc89ede635b",
+    "type": "split",
+    "children": [
+      {
+        "id": "465c74d6837af82f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6efd3d19b9eb771e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b8224460f3db013",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb342acf3aeb9ac3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4f70953139242db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "cde24295312a2112",
+  "lastOpenFiles": [
+    "layout/Navigation.md",
+    "MedCross.md",
+    "pages/Home Page.md",
+    "Medcross Requirements.md",
+    "layout",
+    "cross canvas.canvas",
+    "pages",
+    "create a link.md",
+    "Welcome.md",
+    "Scroll Snap.md"
+  ]
+}
