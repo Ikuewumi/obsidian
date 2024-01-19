@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"e25b65a1e02769bd","type":"group","x":-500,"y":-3220,"width":1447,"height":708,"label":"Start Of Word"},
+		{"id":"370e29e410c0ea42","type":"text","text":"It is the start of a word","x":-480,"y":-2900,"width":250,"height":60,"color":"4"},
+		{"id":"c2d38b1346fb3144","type":"text","text":"Check if a character is the start of a word, if char is empty it fails, but if it is not empty: [[Medcross Requirements]]","x":-221,"y":-3200,"width":250,"height":152},
+		{"id":"c8f9e537be6507ce","type":"text","text":"Check if there's something before it, if there is, it fails","x":-160,"y":-2930,"width":250,"height":60,"color":"1"},
+		{"id":"7731cbe3f399bf84","type":"text","text":"char is at the end of it's axis","x":-134,"y":-2726,"width":250,"height":60,"color":"1"},
+		{"id":"ad172893fe8e03a7","type":"text","text":"If there is a char after it in it's axis","x":145,"y":-2592,"width":250,"height":60,"color":"4"},
+		{"id":"f739664005adf3dc","type":"text","text":"Nothing before it, it passes","x":237,"y":-2880,"width":250,"height":60,"color":"4"},
+		{"id":"87f9e3cb4167eb39","type":"text","text":"If there is no char after it in it's axis","x":677,"y":-2604,"width":250,"height":60,"color":"1"},
+		{"id":"f6636b05b3c8a7f4","type":"text","text":"Char is not at the end of its axis","x":421,"y":-2728,"width":250,"height":62,"color":"4"},
+		{"id":"28c59321a04c62b1","type":"text","text":"Char is not 0 at the coordinate x or y","x":116,"y":-3040,"width":250,"height":60},
+		{"id":"9ac0392b6a19dc3d","type":"text","text":"Char is at the coordinate 0, x or y","x":-480,"y":-3010,"width":250,"height":68}
+	],
+	"edges":[
+		{"id":"ddb687ac88f9cd26","fromNode":"c2d38b1346fb3144","fromSide":"bottom","toNode":"9ac0392b6a19dc3d","toSide":"top"},
+		{"id":"3fdaa75bf081dee4","fromNode":"c2d38b1346fb3144","fromSide":"bottom","toNode":"28c59321a04c62b1","toSide":"top"},
+		{"id":"fad2d618316fd5c8","fromNode":"9ac0392b6a19dc3d","fromSide":"bottom","toNode":"370e29e410c0ea42","toSide":"top"},
+		{"id":"5f92f0e4311209ef","fromNode":"28c59321a04c62b1","fromSide":"bottom","toNode":"c8f9e537be6507ce","toSide":"top"},
+		{"id":"6621743e184f5e68","fromNode":"28c59321a04c62b1","fromSide":"bottom","toNode":"f739664005adf3dc","toSide":"top"},
+		{"id":"b4647fd76874544c","fromNode":"f739664005adf3dc","fromSide":"bottom","toNode":"7731cbe3f399bf84","toSide":"top"},
+		{"id":"db0d660c50f9d0ed","fromNode":"f739664005adf3dc","fromSide":"bottom","toNode":"f6636b05b3c8a7f4","toSide":"top"},
+		{"id":"400757d19b97d7ad","fromNode":"f6636b05b3c8a7f4","fromSide":"bottom","toNode":"ad172893fe8e03a7","toSide":"top"},
+		{"id":"238b730b89df047c","fromNode":"f6636b05b3c8a7f4","fromSide":"bottom","toNode":"87f9e3cb4167eb39","toSide":"top"}
+	]
+}

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ebb0ccf6931e1c0",
+            "id": "cde24295312a2112",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -18,27 +18,32 @@
             }
           },
           {
-            "id": "59d6614803b457f2",
+            "id": "066b779c44f04a02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MedCross.md",
-                "mode": "source",
-                "source": false
+                "file": "Pseudocode.canvas",
+                "viewState": {
+                  "x": 1875.3160619333876,
+                  "y": -2866,
+                  "zoom": -0.40789238072288037
+                }
               }
             }
           },
           {
-            "id": "cde24295312a2112",
+            "id": "0832d5862fef1d2c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Medcross Requirements.md"
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "437bdfc89ede635b",
@@ -104,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pseudocode.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pseudocode.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,11 +149,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pseudocode.canvas"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,12 +174,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "cde24295312a2112",
+  "active": "066b779c44f04a02",
   "lastOpenFiles": [
-    "layout/Navigation.md",
-    "MedCross.md",
-    "pages/Home Page.md",
     "Medcross Requirements.md",
+    "MedCross.md",
+    "Pseudocode.canvas",
+    "2024-01-19.md",
+    "layout/Navigation.md",
+    "2024-01-16.md",
+    "layout/Header.md",
+    "Untitled.md",
+    "pages/Home Page.md",
     "layout",
     "cross canvas.canvas",
     "pages",

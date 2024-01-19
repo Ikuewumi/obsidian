@@ -1,3 +1,6 @@
 Logo
 
-Archive
+home page
+Archive, all crosswords
+Downloads
+About
