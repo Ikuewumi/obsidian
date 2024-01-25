@@ -1,6 +1,7 @@
 
 
-[[Medcross Requirements]]
+[[Medcross Requirements]],
+[[Pseudocode.canvas|Pseudocode]]
 
 The app is to create a crossword game to serve as a fun pastime for med students and personell, and hopefully help them learn while at it  
   
@@ -30,9 +31,9 @@ features to build on top of an actual cross
   
   
 Optional Features  
-- [ ]   leaderboard for points? most likely not, too complicated, cause I want to keep all of the user data on-device; no persistent DB  
-- [ ]   building a desktop app with this; not if I want to update the data and keep it in sync, unless there's like a background function for getting the most up-to-date data  
--  [ ]   a component that just drops on the page periodically, just to keep users on their toes, which is one **optional** german-question quiz; some people may not like the jumping around 
+-  [ ]   leaderboard for points? most likely not, too complicated, cause I want to keep all of the user data on-device; no persistent DB  
+-  [ ]   building a desktop app with this; not if I want to update the data and keep it in sync, unless there's like a background function for getting the most up-to-date data  
+-  [ ]   a component that just drops on the page periodically, just to keep users on their toes, which is one **optional** german-question quiz; some people may not like the jumping around (layout shift)
 - [ ]   share your points to social-media platforms with like a picture and some text linking to the app  
   
   

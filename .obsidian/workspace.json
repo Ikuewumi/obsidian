@@ -4,46 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "81ed14ecded82dbb",
+        "id": "e17fb1aadceaa014",
         "type": "tabs",
         "children": [
           {
-            "id": "cde24295312a2112",
+            "id": "45f3c8744bb09df9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Medcross Requirements.md"
-              }
-            }
-          },
-          {
-            "id": "066b779c44f04a02",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Pseudocode.canvas",
-                "viewState": {
-                  "x": 1875.3160619333876,
-                  "y": -2866,
-                  "zoom": -0.40789238072288037
-                }
-              }
-            }
-          },
-          {
-            "id": "0832d5862fef1d2c",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Medcross Requirements.md"
+                "file": "Coding Snippets.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "437bdfc89ede635b",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pseudocode.canvas",
+                "file": "Coding Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pseudocode.canvas",
+                "file": "Coding Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pseudocode.canvas"
+                "file": "Coding Snippets.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,22 +148,29 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "066b779c44f04a02",
+  "active": "45f3c8744bb09df9",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Coding Snippets.md",
     "Medcross Requirements.md",
     "MedCross.md",
+    "CSS Secrets.md",
+    "Medcross Tasks.canvas",
     "Pseudocode.canvas",
+    "Films.md",
+    "Books To Read.md",
+    "Cosmos.md",
+    "cosmos.png",
+    "Welcome.md",
+    "Untitled",
     "2024-01-19.md",
     "layout/Navigation.md",
     "2024-01-16.md",
     "layout/Header.md",
-    "Untitled.md",
     "pages/Home Page.md",
     "layout",
     "cross canvas.canvas",
     "pages",
-    "create a link.md",
-    "Welcome.md",
-    "Scroll Snap.md"
+    "create a link.md"
   ]
 }
