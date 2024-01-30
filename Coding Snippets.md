@@ -53,3 +53,29 @@ html {
   background-size: calc(var(--s)*1.732) var(--s);
 }
 ```
+
+Find more at [CSS Patterns](https://css-pattern.com/)
+
+
+---
+
+## CSS Organization
+
+To not have a headache when dealing with CSS properties, I have decided to follow Kevin Powell's format for organizing my properties and this is a reference to that
+
+
+```css
+selector {
+	
+	display: flex; /*display stuff*/
+	position: relative; /*positioning stuff*/
+	padding: 2rem; /*box-model stuff*/
+	font-family: 'IBM Plex Sans', system-ui; /*typography*/
+	
+	/*manipulation*/
+	transform: translateX(30px);
+	filter: opacity(0.4);
+	
+	box-shadow: 0 0 0 2px currentColor; /*misc*/
+}
+```

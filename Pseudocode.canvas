@@ -1,16 +1,23 @@
 {
 	"nodes":[
 		{"id":"e25b65a1e02769bd","type":"group","x":-500,"y":-3220,"width":1447,"height":708,"label":"Start Of Word"},
+		{"id":"3535e1ad377f6c63","type":"group","x":1160,"y":-3118,"width":1070,"height":500,"color":"4","label":"CrossBuilder"},
 		{"id":"f739664005adf3dc","type":"text","text":"Nothing before it, it passes","x":237,"y":-2880,"width":250,"height":60,"color":"4"},
-		{"id":"f6636b05b3c8a7f4","type":"text","text":"Char is not at the end of its axis","x":421,"y":-2728,"width":250,"height":62,"color":"4"},
 		{"id":"c2d38b1346fb3144","type":"text","text":"#  [[Medcross Requirements]]\n\nCheck if a character is the start of a word, if char is empty it fails, but if it is not empty:","x":-221,"y":-3200,"width":250,"height":220},
 		{"id":"7731cbe3f399bf84","type":"text","text":"char is at the end of it's axis","x":-134,"y":-2726,"width":250,"height":60,"color":"1"},
-		{"id":"ad172893fe8e03a7","type":"text","text":"If there is a char after it in it's axis","x":145,"y":-2592,"width":250,"height":60,"color":"4"},
 		{"id":"28c59321a04c62b1","type":"text","text":"Char is not 0 at the coordinate x or y","x":200,"y":-3010,"width":250,"height":60},
 		{"id":"c8f9e537be6507ce","type":"text","text":"Check if there's something before it, if there is, it fails","x":-96,"y":-2880,"width":250,"height":60,"color":"1"},
 		{"id":"9ac0392b6a19dc3d","type":"text","text":"Char is at the coordinate 0, x or y","x":-480,"y":-2948,"width":250,"height":68},
 		{"id":"370e29e410c0ea42","type":"text","text":"It is the start of a word","x":-480,"y":-2820,"width":250,"height":60,"color":"4"},
-		{"id":"87f9e3cb4167eb39","type":"text","text":"If there is no char after it in it's axis","x":677,"y":-2604,"width":250,"height":60,"color":"1"}
+		{"id":"87f9e3cb4167eb39","type":"text","text":"If there is no char after it in it's axis","x":677,"y":-2604,"width":250,"height":60,"color":"1"},
+		{"id":"f6636b05b3c8a7f4","type":"text","text":"Char is not at the end of its axis","x":421,"y":-2728,"width":250,"height":62,"color":"4"},
+		{"id":"ad172893fe8e03a7","type":"text","text":"If there is a char after it in it's axis","x":145,"y":-2592,"width":250,"height":60,"color":"4"},
+		{"id":"52ac6ba9484aae1f","type":"text","text":"Create a matrix","x":1200,"y":-2898,"width":250,"height":60},
+		{"id":"181b9f669713156e","type":"text","text":"Use a loop to create the cross-cells with coordinates, and content,","x":1600,"y":-2970,"width":250,"height":102},
+		{"id":"86928d956f88f2e0","type":"text","text":"Have a button that says copy JSON, to copy the crossword json for CMS","x":1580,"y":-2780,"width":250,"height":110},
+		{"id":"b947f7a8eeab8f22","type":"text","text":"## Schematic For Builder\nHave a form where you enter the size of the crossword, and JSON(maybe?)","x":1180,"y":-3088,"width":420,"height":118},
+		{"id":"2e07705e08b2795c","type":"text","text":"When cell gets clicked, use events to get the coords, and give a form for the user to write a word there, or update the word present in that part ","x":1900,"y":-3097,"width":250,"height":178},
+		{"id":"0f62288141780536","type":"text","text":"if the word is valid, add it to the matrix via one of the methods from the engine and since the matrix is reactive, the entire component gets re-rendered","x":1960,"y":-2861,"width":250,"height":191}
 	],
 	"edges":[
 		{"id":"ddb687ac88f9cd26","fromNode":"c2d38b1346fb3144","fromSide":"bottom","toNode":"9ac0392b6a19dc3d","toSide":"top"},
@@ -21,6 +28,11 @@
 		{"id":"b4647fd76874544c","fromNode":"f739664005adf3dc","fromSide":"bottom","toNode":"7731cbe3f399bf84","toSide":"top"},
 		{"id":"db0d660c50f9d0ed","fromNode":"f739664005adf3dc","fromSide":"bottom","toNode":"f6636b05b3c8a7f4","toSide":"top"},
 		{"id":"400757d19b97d7ad","fromNode":"f6636b05b3c8a7f4","fromSide":"bottom","toNode":"ad172893fe8e03a7","toSide":"top"},
-		{"id":"238b730b89df047c","fromNode":"f6636b05b3c8a7f4","fromSide":"bottom","toNode":"87f9e3cb4167eb39","toSide":"top"}
+		{"id":"238b730b89df047c","fromNode":"f6636b05b3c8a7f4","fromSide":"bottom","toNode":"87f9e3cb4167eb39","toSide":"top"},
+		{"id":"e9fc356a661fa49f","fromNode":"b947f7a8eeab8f22","fromSide":"bottom","toNode":"52ac6ba9484aae1f","toSide":"top"},
+		{"id":"81a33d800911ae03","fromNode":"52ac6ba9484aae1f","fromSide":"right","toNode":"181b9f669713156e","toSide":"left"},
+		{"id":"34f56e92445e807b","fromNode":"181b9f669713156e","fromSide":"right","toNode":"2e07705e08b2795c","toSide":"left"},
+		{"id":"49550699b6f77895","fromNode":"2e07705e08b2795c","fromSide":"bottom","toNode":"0f62288141780536","toSide":"top"},
+		{"id":"85465736db1ab5dc","fromNode":"0f62288141780536","fromSide":"left","toNode":"86928d956f88f2e0","toSide":"top"}
 	]
 }

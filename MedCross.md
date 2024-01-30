@@ -16,7 +16,7 @@ New Proposed Stack:
 basic requirements  
 - [ ]  a crossword component that allows for playing a classic crossword puzzle  
 - [ ]   save the progress and can resume the puzzle later **(resumabilty)**  
-- [ ]   give a gui for crossword creation  
+- [x]   give a gui for crossword creation  
 - [ ]   docs for the features of the app  
   
 features to build on top of an actual cross  

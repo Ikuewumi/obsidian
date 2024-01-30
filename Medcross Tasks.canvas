@@ -1,8 +1,4 @@
 {
-	"nodes":[
-		{"id":"0592e9b247bda4f0","type":"text","text":"# Web Components\n\nBuild the cross-parent element, and the cross-cell element\nOn the cross cell, add properties like coordinates, and event listeners for the parent\n\nOn the parent, add properties like the crossword itself\nUse string encoding to scramble the text\n\nHave a cross-builder element and let that have variables for the array, and help in rendering the cross builder\n\n\n","x":-1080,"y":-540,"width":460,"height":360,"color":"5"},
-		{"id":"9660e6690850c851","type":"text","text":"Port To WebC","x":-1080,"y":-160,"width":250,"height":60,"color":"4"},
-		{"id":"cebdf5c846283d94","type":"text","text":"# Dialog\n\nWrite the dialog to be such that the smaller elements get a smaller space instead of awkward real estate\n\nHave a dialog to enter words, when you actually click on them choose, vertical or horizontal\n\n","x":-580,"y":-540,"width":400,"height":240,"color":"3"}
-	],
+	"nodes":[],
 	"edges":[]
 }
