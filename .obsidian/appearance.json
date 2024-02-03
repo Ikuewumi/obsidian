@@ -1,7 +1,8 @@
 {
-  "accentColor": "#f55ccc",
-  "theme": "moonstone",
+  "accentColor": "#755cf5",
+  "theme": "obsidian",
   "textFontFamily": "League Spartan",
   "interfaceFontFamily": "League Spartan",
-  "monospaceFontFamily": "FantasqueSansM Nerd Font Mono"
+  "monospaceFontFamily": "FantasqueSansM Nerd Font Mono",
+  "baseFontSize": 18
 }

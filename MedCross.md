@@ -20,13 +20,12 @@ basic requirements
 - [ ]   docs for the features of the app  
   
 features to build on top of an actual cross  
-- [ ]  add categories to the crosswords 
+- [ ]  add categories to the crosswords 
 - [ ]   allow users to favorite crosswords  
-- [ ]   have a mode to ask the crossword as german questions.  
+- [x]   have a mode to ask the crossword as german questions.  
 - [ ]   save crossword to device - downloads  
 - [ ]   filter for the all crosswords page  
 - [ ]   implement a coins system for buying the answer to a word while playing the game  
-- [ ]   points system  
 - [ ]   make a progressive web app that has some offline functionality  
   
   
