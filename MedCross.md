@@ -1,3 +1,6 @@
+---
+sticker: lucide//laptop-2
+---
 
 
 [[Medcross Requirements]],
@@ -14,8 +17,8 @@ New Proposed Stack:
   
   
 basic requirements  
-- [ ]  a crossword component that allows for playing a classic crossword puzzle  
-- [ ]   save the progress and can resume the puzzle later **(resumabilty)**  
+- [x]  a crossword component that allows for playing a classic crossword puzzle  
+- [x]   save the progress and can resume the puzzle later **(resumabilty)**  
 - [x]   give a gui for crossword creation  
 - [ ]   docs for the features of the app  
   
@@ -37,12 +40,12 @@ Optional Features
   
   
 app architecture  [[Navigation]]
-- [ ]  home page with hero, latest crosswords  [[Home Page]]
+- [x]  home page with hero, latest crosswords  [[Home Page]]
 - [ ]  all crosswords  
 - [ ]  categoried crosswords  
-- [ ]  create crossword page  
+- [x]  create crossword page  
 - [ ]  downloads  
 - [ ]  favorites page  
-- [ ]  start game page   
-  - [ ]  crossword mode  
-  - [ ]  German mode
+- [x]  start game page   
+  - [x]  crossword mode  
+  - [x]  German mode

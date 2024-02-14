@@ -1,6 +1,7 @@
 [
   "obsidian-statusbar-pomo",
   "obsidian-git",
-  "obsidian-projects",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "dataview",
+  "notion-like-tables"
 ]

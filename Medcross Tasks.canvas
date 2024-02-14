@@ -1,8 +1,6 @@
 {
 	"nodes":[
-		{"id":"a8b4d25d1539bf65","type":"text","text":"# German Mode\n**Task for User**: enter words most appropriate for the clues into inputs for a particular word\n\nMust have:\n1. The word itself\n2. The clue to the word\n3. The letter-count of the word\n4. The timer\n5. The input of the word\n6. A progress for the overall puzzle ","x":-680,"y":-336,"width":580,"height":476,"color":"4"},
-		{"id":"6d82badb219e59c3","type":"text","text":"# Timed German Mode(Word Streak??)\n**Task for User**: enter words most appropriate for the clues in 1 minute, if you fail, you have to start again","x":-80,"y":-336,"width":480,"height":216},
-		{"id":"110818ce95250218","x":-80,"y":-98,"width":629,"height":460,"color":"#a534ad","type":"text","text":"# Completed\n\n\n\n\n\n"}
+		{"id":"110818ce95250218","type":"text","text":"# Completed\n\n\n\n\n\n","x":-80,"y":-98,"width":629,"height":460,"color":"#a534ad"}
 	],
 	"edges":[]
 }
