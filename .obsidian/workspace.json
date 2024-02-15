@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0377e7363f49d133",
+        "id": "5c91022ecd26e3a2",
         "type": "tabs",
         "children": [
           {
-            "id": "cfe5251c1038daf9",
+            "id": "315858526b5b3343",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MedCross.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdf2067f9bf06ab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weird Bugs.md",
+                "file": "MedCross Series.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weird Bugs.md",
+                "file": "MedCross Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weird Bugs.md",
+                "file": "MedCross Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weird Bugs.md"
+                "file": "MedCross Series.md"
               }
             }
           }
@@ -170,23 +157,25 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "cdf2067f9bf06ab7",
+  "active": "315858526b5b3343",
   "lastOpenFiles": [
+    "Medcross Requirements.md",
+    "Trivia Med.md",
+    "Pseudocode.canvas",
+    "Medcross Tasks.canvas",
+    "MedCross Series.md",
     "MedCross.md",
-    "2024-02-06.md",
     "Weird Bugs.md",
+    "2024-02-06.md",
     "2024-02-12.md",
     "2024-02-05.md",
     "2024-02-08.md",
     "TV Series.loom",
     "Spaces/Home/Home.md",
-    "Medcross Requirements.md",
-    "Medcross Tasks.canvas",
     "word streak/Word Streak.md",
     "Spaces/Home",
     "Spaces",
     "Series TO Watch.md",
-    "Pseudocode.canvas",
     "academia/Homeostasis.md",
     "academia/Academia.md",
     "academia/Human_Physiology.pdf",
@@ -208,10 +197,8 @@
     "books/CSS Secrets.md",
     "books/Quiet - The Power Of Introverts in a world that can't stop talking.md",
     "books/Cosmos.md",
-    "Introduction to Physiology - The Cell and General Physiology.md",
     "academia",
     "books",
-    "Films.md",
     "cosmos.png",
     "layout",
     "cross canvas.canvas"
