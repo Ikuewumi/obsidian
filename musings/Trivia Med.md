@@ -1,9 +1,14 @@
+---
+sticker: lucide//laptop-2
+tags:
+  - coding
+---
 ## Data Modelling 
 ```json
 {
 	"title": "string",
-	"author": "object",
-	"category": "string",
+	"author": "reference(author)",
+	"category": "reference(category)",
 	"description": "string",
 	"image": "string.url.maybe?",
 	"date": "Date",

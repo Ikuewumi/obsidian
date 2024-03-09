@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Physiology
 
-- [ ] [[Homeostasis]]
 
 
 ## Anatomy

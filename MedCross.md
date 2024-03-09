@@ -23,14 +23,9 @@ basic requirements
 - [ ]   docs for the features of the app  
   
 features to build on top of an actual cross  
-- [ ]  add categories to the crosswords 
-- [ ]   allow users to favorite crosswords  
-- [x]   have a mode to ask the crossword as german questions.  
-- [ ]   save crossword to device - downloads  
-- [ ]   filter for the all crosswords page  
-- [ ]   implement a coins system for buying the answer to a word while playing the game  
-- [ ]   make a progressive web app that has some offline functionality  
-  
+- [x]  add categories to the crosswords 
+- [x]   allow users to favorite crosswords  
+- [x]   have a mode to ask the crossword as german questions.    
   
 Optional Features  
 -  [ ]   leaderboard for points? most likely not, too complicated, cause I want to keep all of the user data on-device; no persistent DB  
@@ -41,11 +36,11 @@ Optional Features
   
 app architecture  [[Navigation]]
 - [x]  home page with hero, latest crosswords  [[Home Page]]
-- [ ]  all crosswords  
-- [ ]  categoried crosswords  
+- [x]  all crosswords  
+- [x]  categoried crosswords  
 - [x]  create crossword page  
 - [ ]  downloads  
-- [ ]  favorites page  
+- [x]  favorites page  
 - [x]  start game page   
   - [x]  crossword mode  
   - [x]  German mode
