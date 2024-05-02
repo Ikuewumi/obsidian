@@ -1,8 +1,8 @@
 {
-  "accentColor": "#755cf5",
-  "theme": "obsidian",
-  "textFontFamily": "League Spartan",
-  "interfaceFontFamily": "League Spartan",
+  "accentColor": "#5c7bf5",
+  "theme": "system",
+  "textFontFamily": "Space Grotesk,Epilogue",
+  "interfaceFontFamily": "Space Grotesk,Epilogue",
   "monospaceFontFamily": "FantasqueSansM Nerd Font Mono",
-  "baseFontSize": 24
+  "baseFontSize": 16
 }

@@ -76,6 +76,6 @@ selector {
 	transform: translateX(30px);
 	filter: opacity(0.4);
 	
-	box-shadow: 0 0 0 2px currentColor; /*misc*/
+	/*misc properties*/
 }
 ```

@@ -36,7 +36,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//academia/academia/Human Physiology"
+    "//academia/academia/Human Physiology",
+    "//Spaces",
+    "//academia"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -52,7 +54,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
