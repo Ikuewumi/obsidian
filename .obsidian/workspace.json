@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "73372819730757a4",
+        "id": "b6f008e4738c1e9e",
         "type": "tabs",
         "children": [
           {
-            "id": "7d975ac92ed88d21",
+            "id": "a9199758750eb4b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "musings/MCross You Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1d656458ec78367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "musings/Memory Game.md",
+                "file": "musings/Parasitology App Idea.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "musings/Memory Game.md",
+                "file": "musings/Parasitology App Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "musings/Memory Game.md",
+                "file": "musings/Parasitology App Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "musings/Memory Game.md"
+                "file": "musings/Parasitology App Idea.md"
               }
             }
           }
@@ -156,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 622.5,
+    "width": 212.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,43 +158,42 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "d1d656458ec78367",
+  "active": "a9199758750eb4b4",
   "lastOpenFiles": [
-    "musings/MCross You Page.md",
-    "musings/Memory Game.md",
-    "musings/Trivia Med.md",
     "musings/Pseudocode.canvas",
+    "musings/Trivia Med.md",
+    "musings/Multimatch.md",
     "musings/musings.md",
-    "musings/Medcross Tasks.canvas",
+    "musings/MCross You Page.md",
     "musings/MedCross Series.md",
     "musings/Medcross Requirements.md",
-    "musings/MedCross.md",
-    "academia/Human_Physiology.pdf",
-    "academia/Academia.md",
-    "academia/Human Physiology/Homeostasis.md",
-    "word streak/Word Streak.md",
-    "pages/Home Page.md",
-    "Coding Snippets.md",
-    "FlashCards.md",
+    "musings/Parasitology App Idea.md",
     "TODO.md.md",
-    "Musing.md",
     "Weird Bugs.md",
-    "Cell-Signaling.md",
-    "medcross",
-    "books/Cosmos.md",
+    "Pomodoro Log.md",
+    "Coding Snippets.md",
+    "academia/Human Physiology/Homeostasis.md",
+    "books/Quiet - The Power Of Introverts in a world that can't stop talking.md",
     "books/Books To Read.md",
+    "books/Cosmos.md",
     "books/CSS Secrets.md",
+    "layout/Navigation.md",
+    "layout/Header.md",
+    "musings/MedCross.md",
+    "musings/Medcross Tasks.canvas",
+    "musings/Memory Game.md",
+    "Spaces/Home/Home.md",
+    "word streak/Word Streak.md",
     "Untitled.loom",
     "TV Series.loom",
+    "Untitled.md",
+    "academia/Academia.md",
+    "2024-05-05.md",
+    "academia/Human_Physiology.pdf",
+    "medcross",
     ".md",
-    "books/Quiet - The Power Of Introverts in a world that can't stop talking.md",
     "academia/Human Physiology",
-    "academia/Homeostasis.md",
     "musings",
-    "2024-02-06.md",
-    "2024-02-12.md",
-    "2024-02-05.md",
-    "2024-02-08.md",
     "Spaces/Home",
     "Spaces",
     "Untitled 1.canvas",

@@ -5,7 +5,7 @@
         "id": "856ed7be-ba83-4686-b691-49c982ed298c",
         "sortDir": "default",
         "isVisible": true,
-        "width": "194px",
+        "width": "254px",
         "type": "text",
         "numberPrefix": "",
         "numberSuffix": "",
@@ -30,7 +30,7 @@
         "sortDir": "default",
         "isVisible": true,
         "width": "128px",
-        "type": "text",
+        "type": "checkbox",
         "numberPrefix": "",
         "numberSuffix": "",
         "numberSeparator": "",
@@ -100,11 +100,44 @@
     ],
     "rows": [
       {
-        "id": "7c05be73-7e76-4e15-a92a-65496fe3877d",
+        "id": "d0c76835-77d5-4bae-92b8-ae457d21c4b1",
         "index": 0,
         "sourceId": null,
+        "creationDateTime": "2024-03-16T20:29:45.396Z",
+        "lastEditedDateTime": "2024-10-25T23:43:08.284Z",
+        "cells": [
+          {
+            "id": "e33982fd-c657-4246-b8af-2ae121739a17",
+            "columnId": "856ed7be-ba83-4686-b691-49c982ed298c",
+            "content": "True Blood",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a354e8a5-7636-4528-8b01-5ea8093528d5",
+            "columnId": "8727ca27-42ef-4638-9da1-b8c683575ce0",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "100c44ad-cf8d-44dd-b41b-51c6ed0fefc2",
+            "columnId": "0c2e9ac6-b906-48eb-ad18-e83c65c75653",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c9715204-5287-48e4-8575-4f3aff8928eb",
+            "columnId": "c7eac99b-0a45-42d8-816f-841f994c5fae",
+            "content": "Hemlock Grove",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7c05be73-7e76-4e15-a92a-65496fe3877d",
+        "index": 1,
+        "sourceId": null,
         "creationDateTime": "2024-02-10T00:00:41.120Z",
-        "lastEditedDateTime": "2024-03-04T02:03:24.765Z",
+        "lastEditedDateTime": "2024-10-25T23:43:05.389Z",
         "cells": [
           {
             "id": "451ee13b-3501-4933-b9b6-1eaad372abe6",
@@ -113,9 +146,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "69ad9d84-87cf-4679-9d73-b3e21d52f33c",
+            "id": "0d2fd451-07c3-4699-85c9-61268d418ce1",
             "columnId": "8727ca27-42ef-4638-9da1-b8c683575ce0",
-            "content": "True Blood",
+            "value": false,
             "hasValidFrontmatter": null
           },
           {
@@ -127,14 +160,14 @@
           {
             "id": "bfecbd4c-90f5-4b3c-ad66-9e79b5f4aa3c",
             "columnId": "c7eac99b-0a45-42d8-816f-841f994c5fae",
-            "content": "Hemlock Grove",
+            "content": "",
             "hasValidFrontmatter": null
           }
         ]
       },
       {
         "id": "29b45ac7-3520-4f73-a0af-6a935400c500",
-        "index": 1,
+        "index": 2,
         "sourceId": null,
         "creationDateTime": "2024-02-10T00:01:40.899Z",
         "lastEditedDateTime": "2024-03-04T02:03:27.289Z",
@@ -146,9 +179,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "c461c2e4-6b42-414b-be3e-b63a5a2bcef0",
+            "id": "548fc27b-c85f-41e4-a921-9e03df12163a",
             "columnId": "8727ca27-42ef-4638-9da1-b8c683575ce0",
-            "content": "Revenge",
+            "value": false,
             "hasValidFrontmatter": null
           },
           {
@@ -167,7 +200,7 @@
       },
       {
         "id": "23cfb838-3b10-4299-af45-8f343868a613",
-        "index": 2,
+        "index": 3,
         "sourceId": null,
         "creationDateTime": "2024-03-02T00:25:40.030Z",
         "lastEditedDateTime": "2024-03-16T22:27:17.410Z",
@@ -179,9 +212,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "183be49a-2d08-48a3-8084-febca805b6f7",
+            "id": "a6b91d90-007a-4592-90df-f0d2474d49c2",
             "columnId": "8727ca27-42ef-4638-9da1-b8c683575ce0",
-            "content": "Baby",
+            "value": false,
             "hasValidFrontmatter": null
           },
           {
@@ -192,39 +225,6 @@
           },
           {
             "id": "9b25526a-c092-447f-9c83-3b418bd26965",
-            "columnId": "c7eac99b-0a45-42d8-816f-841f994c5fae",
-            "content": "",
-            "hasValidFrontmatter": null
-          }
-        ]
-      },
-      {
-        "id": "d86d95b1-f441-46c0-9190-adfa813c8678",
-        "index": 3,
-        "sourceId": null,
-        "creationDateTime": "2024-03-02T00:28:56.523Z",
-        "lastEditedDateTime": "2024-04-07T23:21:09.143Z",
-        "cells": [
-          {
-            "id": "e95b45ef-2347-49f9-8c71-3d8257e91197",
-            "columnId": "856ed7be-ba83-4686-b691-49c982ed298c",
-            "content": "Heroes",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "83e35669-246a-4884-99c7-61fdac87188c",
-            "columnId": "8727ca27-42ef-4638-9da1-b8c683575ce0",
-            "content": "Scorpion",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "42c8eabc-d023-4237-9e98-c3f84d660d03",
-            "columnId": "0c2e9ac6-b906-48eb-ad18-e83c65c75653",
-            "content": "",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "d2641425-5060-4504-86b6-9075472d8b44",
             "columnId": "c7eac99b-0a45-42d8-816f-841f994c5fae",
             "content": "",
             "hasValidFrontmatter": null
@@ -245,9 +245,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "80cca639-1c5a-4ca7-b24d-3564949053b6",
+            "id": "87d737b9-bb08-4fb9-be6e-6a247a52fee9",
             "columnId": "8727ca27-42ef-4638-9da1-b8c683575ce0",
-            "content": "",
+            "value": false,
             "hasValidFrontmatter": null
           },
           {
@@ -265,41 +265,8 @@
         ]
       },
       {
-        "id": "2e8d9e4b-247c-4170-9be8-ef79bcf4f546",
-        "index": 5,
-        "sourceId": null,
-        "creationDateTime": "2024-03-02T00:31:42.808Z",
-        "lastEditedDateTime": "2024-03-02T00:31:53.223Z",
-        "cells": [
-          {
-            "id": "a727ec86-4cbc-4e2f-b8a5-1a6152931d72",
-            "columnId": "856ed7be-ba83-4686-b691-49c982ed298c",
-            "content": "Shadowhunters",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "58885874-318b-4bb9-9603-73b2732e4fa6",
-            "columnId": "8727ca27-42ef-4638-9da1-b8c683575ce0",
-            "content": "",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "d4e299c2-47e5-4d12-bd66-640584dfd188",
-            "columnId": "0c2e9ac6-b906-48eb-ad18-e83c65c75653",
-            "content": "",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "e36b752d-0b32-4df2-9f87-9f30b848f882",
-            "columnId": "c7eac99b-0a45-42d8-816f-841f994c5fae",
-            "content": "",
-            "hasValidFrontmatter": null
-          }
-        ]
-      },
-      {
         "id": "074eec86-0316-4f6c-bfd9-185ca2815f60",
-        "index": 6,
+        "index": 5,
         "sourceId": null,
         "creationDateTime": "2024-03-02T00:37:25.496Z",
         "lastEditedDateTime": "2024-03-02T00:37:27.728Z",
@@ -311,9 +278,9 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "8bcd1acf-b560-4dc0-bcb7-2447003d64de",
+            "id": "fe5fd381-c213-4ead-80af-e1513e49b4e4",
             "columnId": "8727ca27-42ef-4638-9da1-b8c683575ce0",
-            "content": "",
+            "value": false,
             "hasValidFrontmatter": null
           },
           {
@@ -331,32 +298,65 @@
         ]
       },
       {
-        "id": "d0c76835-77d5-4bae-92b8-ae457d21c4b1",
-        "index": 7,
+        "id": "d86d95b1-f441-46c0-9190-adfa813c8678",
+        "index": 6,
         "sourceId": null,
-        "creationDateTime": "2024-03-16T20:29:45.396Z",
-        "lastEditedDateTime": "2024-04-07T23:21:03.157Z",
+        "creationDateTime": "2024-03-02T00:28:56.523Z",
+        "lastEditedDateTime": "2024-10-25T23:42:17.742Z",
         "cells": [
           {
-            "id": "e33982fd-c657-4246-b8af-2ae121739a17",
+            "id": "e95b45ef-2347-49f9-8c71-3d8257e91197",
             "columnId": "856ed7be-ba83-4686-b691-49c982ed298c",
-            "content": "",
+            "content": "Heroes",
             "hasValidFrontmatter": null
           },
           {
-            "id": "f9e901a2-e5ec-4144-ab39-bdd8a0555ce2",
+            "id": "1b4e1013-d2c9-4be5-9cbe-07b3dafc0b55",
             "columnId": "8727ca27-42ef-4638-9da1-b8c683575ce0",
-            "content": "",
+            "value": false,
             "hasValidFrontmatter": null
           },
           {
-            "id": "100c44ad-cf8d-44dd-b41b-51c6ed0fefc2",
+            "id": "42c8eabc-d023-4237-9e98-c3f84d660d03",
             "columnId": "0c2e9ac6-b906-48eb-ad18-e83c65c75653",
             "content": "",
             "hasValidFrontmatter": null
           },
           {
-            "id": "c9715204-5287-48e4-8575-4f3aff8928eb",
+            "id": "d2641425-5060-4504-86b6-9075472d8b44",
+            "columnId": "c7eac99b-0a45-42d8-816f-841f994c5fae",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2e8d9e4b-247c-4170-9be8-ef79bcf4f546",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2024-03-02T00:31:42.808Z",
+        "lastEditedDateTime": "2024-03-02T00:31:53.223Z",
+        "cells": [
+          {
+            "id": "a727ec86-4cbc-4e2f-b8a5-1a6152931d72",
+            "columnId": "856ed7be-ba83-4686-b691-49c982ed298c",
+            "content": "Shadowhunters",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "815d3221-d0cb-499f-8b95-4ce187c9b0e2",
+            "columnId": "8727ca27-42ef-4638-9da1-b8c683575ce0",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d4e299c2-47e5-4d12-bd66-640584dfd188",
+            "columnId": "0c2e9ac6-b906-48eb-ad18-e83c65c75653",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e36b752d-0b32-4df2-9f87-9f30b848f882",
             "columnId": "c7eac99b-0a45-42d8-816f-841f994c5fae",
             "content": "",
             "hasValidFrontmatter": null

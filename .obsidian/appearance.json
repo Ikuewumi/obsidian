@@ -1,8 +1,8 @@
 {
-  "accentColor": "#5c7bf5",
-  "theme": "system",
-  "textFontFamily": "Space Grotesk,Epilogue",
-  "interfaceFontFamily": "Space Grotesk,Epilogue",
-  "monospaceFontFamily": "FantasqueSansM Nerd Font Mono",
-  "baseFontSize": 16
+  "accentColor": "#d115cb",
+  "theme": "moonstone",
+  "textFontFamily": "Dosis",
+  "interfaceFontFamily": "Dosis",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "baseFontSize": 17
 }
